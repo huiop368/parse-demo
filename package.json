@@ -1,0 +1,29 @@
+{
+  "name": "parse",
+  "version": "0.0.0",
+  "description": "Demo for parse",
+  "main": "main.js",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huiop368/parse-demo.git"
+  },
+  "keywords": [
+    "parse"
+  ],
+  "author": "Peng",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/huiop368/parse-demo/issues"
+  },
+  "devDependencies": {
+    "react": "~0.13.3",
+    "webpack": "~1.12.2",
+    "webpack-dev-server": "~1.12.0",
+    "jsx-loader": "~0.13.2"
+  }
+}
